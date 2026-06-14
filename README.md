@@ -1,5 +1,11 @@
-# BAI-2
-PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
+# BAI1
+# PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
+## GIÁO VIÊN HƯỚNG DẪN	:	THS.ĐỖ DUY CỐP
+## HỌ TÊN SINH VIÊN 	:	NGUYỄN THỊ XUÂN PHƯƠNG
+## MSSV 	:	K225480106054
+## LỚP	:	K58KTP
+---------------------
+
 2. Viết app sử dụng Android Studio
    + Android manifest.xml  => mô tả gì? App cần quyền để do-st: khai báo ntn? Để làm gì?
    + vòng đời của 1 ứng dụng android.
