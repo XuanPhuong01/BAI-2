@@ -1,4 +1,4 @@
-# BAI1
+# BAI2
 # PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
 ## GIÁO VIÊN HƯỚNG DẪN	:	THS.ĐỖ DUY CỐP
 ## HỌ TÊN SINH VIÊN 	:	NGUYỄN THỊ XUÂN PHƯƠNG
