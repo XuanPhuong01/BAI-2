@@ -1,0 +1,2 @@
+# BAI-2
+PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
